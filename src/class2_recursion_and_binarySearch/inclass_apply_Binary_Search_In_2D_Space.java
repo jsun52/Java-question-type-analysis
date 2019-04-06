@@ -1,4 +1,4 @@
-package class2_recursion_and_binarySearch;
+package class2_recursion_And_binarySearch;
 
 /**
 *
