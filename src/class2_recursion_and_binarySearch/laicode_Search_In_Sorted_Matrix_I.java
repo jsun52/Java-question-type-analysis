@@ -6,7 +6,7 @@ package class2_recursion_And_binarySearch;
 * in an ascending order. The first element of next row is larger than
 * (or equal to) the last element of previous row.
 * Given a target number, returning the position that the target locates
-* within the matrix. If the target number does not exist in the matrix, return {-1, -1}.  
+* within the matrix. If the target number does not exist in the matrix, return {-1, -1}.
 *
 * Assumptions:
 *    The given matrix is not null, and has size of N * M, where N >= 0 and M >= 0.
@@ -16,7 +16,7 @@ package class2_recursion_And_binarySearch;
 *    target = 6, return {-1, -1} to represent the target number does not exist in the matrix.
 **/
 
-public class inclass_apply_Binary_Search_In_2D_Space {
+public class laicode_Search_In_Sorted_Matrix_I {
 
  // Based on the property of matrix, we can regard the matrix as a 1D array with length m * n
  // map row with length / cols
